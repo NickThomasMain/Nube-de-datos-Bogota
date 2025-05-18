@@ -1,0 +1,10 @@
+name: pointcloud-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - open3d
+  - laspy
